@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div>
+    <div class="bg-theme-white text-black w-full h-full">
         hello
     </div>
 </template>
